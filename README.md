@@ -1,6 +1,10 @@
 # FaceGAN-Text-based-image-manipulation-of-human-face-without-incorporating-gender-bias
 Propose a new method called “ FaceGAN ” capable of manipulating human face images using user text prompts without incorporating gender bias.
 
+# Video presentation
+
+Link: https://youtu.be/SEWKMCcaeBs
+
 # Abstract
 
 Text-based image synthesis is a promising technique for advancing the field of image manipulation.
